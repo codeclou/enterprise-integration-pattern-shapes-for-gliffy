@@ -1,7 +1,6 @@
-enterprise-integration-pattern-shapes-for-gliffy
-================================================
+Readme
+======
 
-
-
-
-![alt text](https://github.com/comsysto/enterprise-integration-pattern-shapes-for-gliffy/blob/master/eip-svg-shapes/Message-Construction__Command-Message.svg "Command Message")
+This branch is only used for publishing the projects website. 
+See the **master** branch for the actual shapes or navigate to the project page:
+http://comsysto.github.io/enterprise-integration-pattern-shapes-for-gliffy/
