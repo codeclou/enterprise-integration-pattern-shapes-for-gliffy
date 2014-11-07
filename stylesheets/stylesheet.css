@@ -455,6 +455,7 @@ header {
 
 header h1 {
   font-family: 'Sanchez', Helvetica, Arial, serif;
+  background:url(../images/eip-logo.png) 3px 9px no-repeat;
   letter-spacing: -1px;
   font-size: 72px;
   font-weight: normal;
@@ -462,6 +463,7 @@ header h1 {
   line-height: 1;
   margin-top: 0;
   margin-bottom: 0.2em;
+  padding-left:160px;
   width: 600px;
 }
 
