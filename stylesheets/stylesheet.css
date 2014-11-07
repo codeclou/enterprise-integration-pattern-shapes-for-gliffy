@@ -485,6 +485,11 @@ header h2 {
   margin: 0 auto;
 }
 
+.logotop {
+  float:right;
+  padding-top:30px;
+}
+
 #content-wrapper {
   border-top: solid 1px #fff;
   padding-top: 30px;
@@ -532,19 +537,19 @@ a.button small {
   display: block;
   font-size: 11px;
 }
-header a.button {
-  position: absolute;
-  right: 0;
-  top: 0;
-  background: transparent url(../images/github-button.png) 0 0 no-repeat;
-}
 aside a.button {
   width: 138px;
   padding-left: 64px;
   display: block;
-  background: transparent url(../images/download-button.png) 0 0 no-repeat;
   margin-bottom: 20px;
   font-size: 21px;
+}
+
+.download {
+  background: transparent url(../images/download-button.png) 0 0 no-repeat;
+}
+.gotogh {
+  background: transparent url(../images/github-button.png) 0 0 no-repeat;
 }
 
 code, pre {
