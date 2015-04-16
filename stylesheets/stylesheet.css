@@ -456,6 +456,7 @@ header {
 header h1 {
   font-family: 'Sanchez', Helvetica, Arial, serif;
   background:url(../images/eip-logo.png) 3px 9px no-repeat;
+  background-size: 138px 55px;
   letter-spacing: -1px;
   font-size: 72px;
   font-weight: normal;
@@ -466,6 +467,21 @@ header h1 {
   padding-left:160px;
   width: 600px;
 }
+
+@media
+only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (   min--moz-device-pixel-ratio: 2),
+only screen and (     -o-min-device-pixel-ratio: 2/1),
+only screen and (        min-device-pixel-ratio: 2),
+only screen and (                min-resolution: 192dpi),
+only screen and (                min-resolution: 2dppx) { 
+    
+    header h1 {
+      background:url(../images/eip-logo@2x.png) 3px 9px no-repeat;
+      background-size: 138px 55px;
+    }
+}
+
 
 header h2 {
   font-family: 'Open Sans', Helvetica, Arial, serif;
