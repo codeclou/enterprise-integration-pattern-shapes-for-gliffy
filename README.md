@@ -6,7 +6,7 @@ This project provides [SVG](http://de.wikipedia.org/wiki/Scalable_Vector_Graphic
 See the [project page](http://comsysto.github.io/enterprise-integration-pattern-shapes-for-gliffy/) for full documentation and **[usage guide](http://comsysto.github.io/enterprise-integration-pattern-shapes-for-gliffy/#usage-guide)**.
 
 Here is a picture of some shapes so that you get an idea:
-![](https://comsysto.github.io/enterprise-integration-pattern-shapes-for-gliffy/doc/demo.png)
+![](https://comsysto.github.io/enterprise-integration-pattern-shapes-for-gliffy/docimg/demo.png)
 
 
 
