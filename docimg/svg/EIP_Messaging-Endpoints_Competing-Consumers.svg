@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 122 77" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+  <metadata xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc11="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc11:format>image/svg+xml</dc11:format>
+        <dc11:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/"/>
+        <cc:attributionName>codeclou</cc:attributionName>
+        <cc:attributionURL rdf:resource="https://codeclou.com"/>
+      </cc:Work>
+      <cc:License rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+        <cc:requires rdf:resource="http://creativecommons.org/ns#Notice"/>
+        <cc:requires rdf:resource="http://creativecommons.org/ns#Attribution"/>
+        <cc:requires rdf:resource="http://creativecommons.org/ns#ShareAlike"/>
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g transform="matrix(1,0,0,1,-560,-100)">
+    <g id="Competing-Consumers" serif:id="Competing Consumers" transform="matrix(1,0,0,1,560,100)">
+      <rect x="0" y="0" width="122" height="77" style="fill:rgb(156,242,156);"/>
+      <g>
+        <g transform="matrix(0.729874,0.729874,-0.729874,0.729874,-3.70701,-1.23963)">
+          <rect x="94.552" y="-50.277" width="10.172" height="10.172" style="fill:rgb(16,16,16);"/>
+        </g>
+        <g transform="matrix(0.729874,0.729874,-0.729874,0.729874,-2.87404,8.56533)">
+          <rect x="71.217" y="-62.298" width="10.172" height="10.172" style="fill:rgb(16,16,16);"/>
+        </g>
+        <g transform="matrix(0.729874,0.729874,-0.729874,0.729874,-2.87405,-10.2704)">
+          <rect x="106.042" y="-27.473" width="10.172" height="10.172" style="fill:rgb(16,16,16);"/>
+        </g>
+        <g transform="matrix(1,0,0,1,-560,-100)">
+          <path d="M636.367,152.999L611.21,146.823C610.674,146.692 610.346,146.15 610.478,145.614C610.609,145.078 611.151,144.749 611.687,144.881L636.885,151.066L637.733,147.901L646.5,154.456L635.63,155.749L636.367,152.999Z" style="fill:rgb(16,16,16);"/>
+        </g>
+        <g transform="matrix(1,0,0,1,-560,-100)">
+          <path d="M643.762,137.5L643.762,134.438L653.926,138.5L643.762,142.563L643.762,139.5L617.473,139.5C616.921,139.5 616.473,139.052 616.473,138.5C616.473,137.948 616.921,137.5 617.473,137.5L643.762,137.5Z" style="fill:rgb(16,16,16);"/>
+        </g>
+        <g transform="matrix(1,0,0,1,-560,-100)">
+          <path d="M636.376,123.974L635.63,121.19L646.5,122.483L637.733,129.038L636.891,125.894C636.858,125.907 636.824,125.918 636.789,125.928L612.44,132.483C611.907,132.626 611.358,132.31 611.215,131.777C611.071,131.244 611.387,130.695 611.92,130.551L636.269,123.996C636.305,123.987 636.341,123.979 636.376,123.974Z" style="fill:rgb(16,16,16);"/>
+        </g>
+        <g transform="matrix(1,0,0,1,-560,-100)">
+          <path d="M592.989,137L592.989,130.261L613.604,138.5L592.989,146.739L592.989,140L568.511,140C567.683,140 567.011,139.328 567.011,138.5C567.011,137.672 567.683,137 568.511,137L592.989,137Z" style="fill:rgb(153,153,153);"/>
+        </g>
+        <g id="frame" transform="matrix(1,0,0,1,1,1)">
+          <path d="M-1,-1L-1,76L121,76L121,-1L-1,-1ZM119,1L119,74L1,74L1,1L119,1Z" style="fill:rgb(16,16,16);fill-rule:nonzero;"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 122 77" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+  <metadata xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc11="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc11:format>image/svg+xml</dc11:format>
+        <dc11:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/"/>
+        <cc:attributionName>codeclou</cc:attributionName>
+        <cc:attributionURL rdf:resource="https://codeclou.com"/>
+      </cc:Work>
+      <cc:License rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+        <cc:requires rdf:resource="http://creativecommons.org/ns#Notice"/>
+        <cc:requires rdf:resource="http://creativecommons.org/ns#Attribution"/>
+        <cc:requires rdf:resource="http://creativecommons.org/ns#ShareAlike"/>
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g transform="matrix(1,0,0,1,0,-700)">
+    <g id="Return-Address" serif:id="Return Address" transform="matrix(1,0,0,1,0,700)">
+      <rect x="0" y="0" width="122" height="77" style="fill:none;"/>
+      <g>
+        <g transform="matrix(0.761965,0,0,0.777035,14.7106,8.00139)">
+          <rect x="27.284" y="18.659" width="66.932" height="41.182" style="fill:rgb(255,255,141);"/>
+        </g>
+        <g transform="matrix(0.761965,0,0,0.777035,14.7106,8.00139)">
+          <path d="M94.872,18.015L26.628,18.015L26.628,60.485L94.872,60.485L94.872,18.015ZM93.56,19.302L93.56,59.198L27.94,59.198L27.94,19.302L93.56,19.302Z" style="fill:rgb(16,16,16);fill-rule:nonzero;"/>
+        </g>
+      </g>
+      <g>
+        <g transform="matrix(0.942573,0,0,0.992704,-3.14547,4.76844)">
+          <rect x="83.439" y="22.376" width="6.364" height="6.894" style="fill:rgb(255,255,249);"/>
+        </g>
+        <g transform="matrix(0.942573,0,0,0.992704,-3.14547,4.76844)">
+          <path d="M90.068,22.124L83.173,22.124L83.173,29.522L90.068,29.522L90.068,22.124ZM89.537,22.628L89.537,29.018L83.704,29.018L83.704,22.628L89.537,22.628Z" style="fill:rgb(16,16,16);fill-rule:nonzero;"/>
+        </g>
+      </g>
+      <g>
+        <g transform="matrix(1,0,0,1,-0.0829596,-699.806)">
+          <path d="M57.381,740.776L81.583,740.776L81.583,739.776L57.381,739.776L57.381,740.776Z" style="fill:rgb(16,16,16);"/>
+        </g>
+        <g transform="matrix(1,0,0,1,-0.0829596,-695.806)">
+          <path d="M57.381,740.776L81.583,740.776L81.583,739.776L57.381,739.776L57.381,740.776Z" style="fill:rgb(16,16,16);"/>
+        </g>
+        <g transform="matrix(1,0,0,1,-0.0829596,-691.806)">
+          <path d="M57.381,740.776L81.583,740.776L81.583,739.776L57.381,739.776L57.381,740.776Z" style="fill:rgb(16,16,16);"/>
+        </g>
+      </g>
+      <g>
+        <g transform="matrix(1,0,0,1,0.652761,-699.965)">
+          <path d="M39.847,734.159L50.492,734.159L50.492,733.159L39.847,733.159L39.847,734.159Z" style="fill:rgb(16,16,16);"/>
+        </g>
+        <g transform="matrix(1,0,0,1,0.652761,-702.965)">
+          <path d="M39.847,734.159L50.492,734.159L50.492,733.159L39.847,733.159L39.847,734.159Z" style="fill:rgb(16,16,16);"/>
+        </g>
+        <g transform="matrix(1,0,0,1,0.652761,-705.923)">
+          <path d="M39.847,734.159L50.492,734.159L50.492,733.159L39.847,733.159L39.847,734.159Z" style="fill:rgb(16,16,16);"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

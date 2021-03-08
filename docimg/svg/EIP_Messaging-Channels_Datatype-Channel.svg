@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 122 77" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+  <metadata xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc11="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc11:format>image/svg+xml</dc11:format>
+        <dc11:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/"/>
+        <cc:attributionName>codeclou</cc:attributionName>
+        <cc:attributionURL rdf:resource="https://codeclou.com"/>
+      </cc:Work>
+      <cc:License rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+        <cc:requires rdf:resource="http://creativecommons.org/ns#Notice"/>
+        <cc:requires rdf:resource="http://creativecommons.org/ns#Attribution"/>
+        <cc:requires rdf:resource="http://creativecommons.org/ns#ShareAlike"/>
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g transform="matrix(1,0,0,1,-420,-400)">
+    <g id="Datatype-Channel" serif:id="Datatype Channel" transform="matrix(1,0,0,1,420,400)">
+      <rect x="0" y="0" width="122" height="77" style="fill:none;"/>
+      <g>
+        <g transform="matrix(0.936287,0,0,0.931568,-389.32,-276.844)">
+          <path d="M438.91,326.77L438.91,326.75L523.244,326.75L523.244,350.25L439.24,350.25C439.094,350.262 438.947,350.268 438.8,350.268C434.492,350.268 430.995,345.003 430.995,338.518C430.995,332.033 434.492,326.768 438.8,326.768C438.837,326.768 438.873,326.769 438.91,326.77Z" style="fill:rgb(153,153,153);"/>
+        </g>
+        <g transform="matrix(0.936287,0,0,0.931568,-389.32,-276.844)">
+          <path d="M431.882,333.077C431.918,332.974 523.244,333.07 523.244,333.07L523.244,340.831C523.244,340.831 431.159,340.924 431.157,340.906C431.051,340.135 430.995,339.336 430.995,338.518C430.995,336.555 431.316,334.704 431.882,333.077Z" style="fill:rgb(204,204,204);"/>
+        </g>
+        <g transform="matrix(0.936287,0,0,0.931568,-389.32,-276.844)">
+          <path d="M438.91,326.77L438.91,326.75L523.244,326.75L523.244,333.114C523.244,333.114 431.834,333.215 431.882,333.077C433.187,329.328 435.796,326.768 438.8,326.768C438.837,326.768 438.873,326.769 438.91,326.77Z" style="fill:rgb(230,230,230);"/>
+        </g>
+        <g transform="matrix(0.650838,0,0,0.979809,-241.162,-287.791)">
+          <circle cx="525.03" cy="333.006" r="11.154" style="fill:rgb(230,230,230);"/>
+        </g>
+        <g transform="matrix(1,0,0,1,-420,-400)">
+          <path d="M520.462,427.063C520.491,427.063 520.519,427.063 520.548,427.063C522.286,427.063 523.901,427.898 525.205,429.337C527.076,431.403 528.307,434.733 528.307,438.491C528.307,442.25 527.076,445.58 525.205,447.646C523.901,449.085 522.286,449.92 520.548,449.92C520.519,449.92 520.491,449.92 520.462,449.92L520.48,449.937L441.875,449.937C441.733,449.949 441.591,449.954 441.448,449.954C439.711,449.954 438.098,449.118 436.795,447.678C434.923,445.608 433.693,442.273 433.693,438.509C433.693,434.744 434.923,431.409 436.795,429.339C437.998,428.009 439.467,427.193 441.054,427.077L441.054,427.046L520.48,427.046L520.462,427.063ZM517.385,428.046L442.047,428.046L442.047,428.075L441.448,428.063C439.98,428.063 438.63,428.796 437.53,430.012C435.797,431.928 434.686,435.024 434.686,438.509C434.686,441.993 435.797,445.089 437.53,447.005C438.63,448.221 439.98,448.954 441.448,448.954L441.836,448.937L517.385,448.937C516.854,448.59 516.353,448.156 515.891,447.646C514.019,445.58 512.788,442.25 512.788,438.491C512.788,434.733 514.019,431.403 515.891,429.337C516.353,428.827 516.854,428.393 517.385,428.046ZM520.548,428.063C519.081,428.063 517.732,428.794 516.632,430.008C514.9,431.921 513.788,435.012 513.788,438.491C513.788,441.971 514.9,445.062 516.632,446.975C517.732,448.189 519.081,448.92 520.548,448.92C522.015,448.92 523.364,448.189 524.464,446.975C526.196,445.062 527.307,441.971 527.307,438.491C527.307,435.012 526.196,431.921 524.464,430.008C523.364,428.794 522.015,428.063 520.548,428.063Z" style="fill:rgb(16,16,16);fill-rule:nonzero;"/>
+        </g>
+      </g>
+      <g>
+        <g transform="matrix(1,0,0,1,-6.4355,0.392858)">
+          <rect x="75.633" y="31.956" width="12.303" height="12.303" style="fill:rgb(251,255,249);"/>
+        </g>
+        <g transform="matrix(1,0,0,1,-6.4355,0.392858)">
+          <path d="M88.435,31.456L75.133,31.456L75.133,44.759L88.435,44.759L88.435,31.456ZM87.436,32.456L87.436,43.759L76.133,43.759L76.133,32.456L87.436,32.456Z" style="fill-rule:nonzero;"/>
+        </g>
+      </g>
+      <g>
+        <g transform="matrix(1,0,0,1,-1.52179,0.392858)">
+          <rect x="50.219" y="31.956" width="12.303" height="12.303" style="fill:rgb(251,255,249);"/>
+        </g>
+        <g transform="matrix(1,0,0,1,-1.52179,0.392858)">
+          <path d="M63.022,31.456L49.719,31.456L49.719,44.759L63.022,44.759L63.022,31.456ZM62.022,32.456L62.022,43.759L50.719,43.759L50.719,32.456L62.022,32.456Z" style="fill-rule:nonzero;"/>
+        </g>
+      </g>
+      <g>
+        <g transform="matrix(1,0,0,1,3.39193,0.392858)">
+          <rect x="24.805" y="31.956" width="12.303" height="12.303" style="fill:rgb(251,255,249);"/>
+        </g>
+        <g transform="matrix(1,0,0,1,3.39193,0.392858)">
+          <path d="M37.608,31.456L24.305,31.456L24.305,44.759L37.608,44.759L37.608,31.456ZM36.608,32.456L36.608,43.759L25.305,43.759L25.305,32.456L36.608,32.456Z" style="fill-rule:nonzero;"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

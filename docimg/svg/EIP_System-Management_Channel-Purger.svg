@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 122 77" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+  <metadata xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc11="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc11:format>image/svg+xml</dc11:format>
+        <dc11:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/"/>
+        <cc:attributionName>codeclou</cc:attributionName>
+        <cc:attributionURL rdf:resource="https://codeclou.com"/>
+      </cc:Work>
+      <cc:License rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+        <cc:requires rdf:resource="http://creativecommons.org/ns#Notice"/>
+        <cc:requires rdf:resource="http://creativecommons.org/ns#Attribution"/>
+        <cc:requires rdf:resource="http://creativecommons.org/ns#ShareAlike"/>
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g transform="matrix(1,0,0,1,-840,-100)">
+    <g id="Channel-Purger" serif:id="Channel Purger" transform="matrix(1,0,0,1,840,100)">
+      <rect x="0" y="0" width="122" height="77" style="fill:rgb(156,242,156);"/>
+      <g>
+        <g transform="matrix(0.972547,0,0,1,1.67309,0)">
+          <g transform="matrix(1.11163,0,0,1.11163,-6.97226,-4.33703)">
+            <path d="M58.718,57.786L51.521,19.194L38.207,19.194L52.511,57.786L58.718,57.786Z" style="fill:rgb(153,153,153);fill-rule:nonzero;"/>
+          </g>
+          <g transform="matrix(1.11163,0,0,1.11163,-6.97226,-4.33703)">
+            <path d="M64.205,57.801L71.132,19.194L84.086,19.194L69.603,57.786L64.205,57.801Z" style="fill:rgb(230,230,230);fill-rule:nonzero;"/>
+          </g>
+          <g transform="matrix(1.11163,0,0,1.11163,-6.97226,-4.33703)">
+            <path d="M64.205,57.786L71.132,19.191L51.521,19.199L58.718,57.786L64.205,57.786Z" style="fill:rgb(204,204,204);fill-rule:nonzero;"/>
+          </g>
+          <g transform="matrix(1.11163,0,0,1.11163,-6.97226,-4.33703)">
+            <path d="M84.735,18.73L37.561,18.73L52.197,58.27L69.914,58.27L84.735,18.73ZM83.437,19.629L69.466,57.371L52.999,57.371L38.853,19.629L83.437,19.629Z" style="fill:rgb(16,16,16);fill-rule:nonzero;"/>
+          </g>
+        </g>
+        <g id="frame" transform="matrix(1,0,0,1,1,1)">
+          <path d="M-1,-1L-1,76L121,76L121,-1L-1,-1ZM119,1L119,74L1,74L1,1L119,1Z" style="fill:rgb(16,16,16);fill-rule:nonzero;"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

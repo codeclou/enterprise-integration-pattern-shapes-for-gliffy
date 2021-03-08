@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 122 77" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+  <metadata xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc11="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc11:format>image/svg+xml</dc11:format>
+        <dc11:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/"/>
+        <cc:attributionName>codeclou</cc:attributionName>
+        <cc:attributionURL rdf:resource="https://codeclou.com"/>
+      </cc:Work>
+      <cc:License rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+        <cc:requires rdf:resource="http://creativecommons.org/ns#Notice"/>
+        <cc:requires rdf:resource="http://creativecommons.org/ns#Attribution"/>
+        <cc:requires rdf:resource="http://creativecommons.org/ns#ShareAlike"/>
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g transform="matrix(1,0,0,1,-140,-800)">
+    <g id="Recipient-List" serif:id="Recipient List" transform="matrix(1,0,0,1,140,800)">
+      <rect x="0" y="0" width="122" height="77" style="fill:rgb(156,242,156);"/>
+      <g>
+        <g transform="matrix(1,0,0,1,-140,-800)">
+          <path d="M183.745,836.16L217.528,822.977C217.51,822.82 217.5,822.661 217.5,822.5C217.5,820.291 219.291,818.5 221.5,818.5C223.364,818.5 224.93,819.775 225.374,821.5L251.489,821.5C252.041,821.5 252.489,821.948 252.489,822.5C252.489,823.052 252.041,823.5 251.489,823.5L225.374,823.5C224.93,825.225 223.364,826.5 221.5,826.5C220.164,826.5 218.982,825.845 218.255,824.84L185.813,837.5L217.626,837.5C218.07,835.775 219.636,834.5 221.5,834.5C223.364,834.5 224.93,835.775 225.374,837.5L251.471,837.5C252.023,837.5 252.471,837.948 252.471,838.5C252.471,839.052 252.023,839.5 251.471,839.5L225.374,839.5C224.93,841.225 223.364,842.5 221.5,842.5C219.636,842.5 218.07,841.225 217.626,839.5L185.813,839.5L218.255,852.16C218.982,851.155 220.164,850.5 221.5,850.5C223.364,850.5 224.93,851.775 225.374,853.5L251.502,853.5C252.054,853.5 252.502,853.948 252.502,854.5C252.502,855.052 252.054,855.5 251.502,855.5L225.374,855.5C224.93,857.225 223.364,858.5 221.5,858.5C219.291,858.5 217.5,856.709 217.5,854.5C217.5,854.339 217.51,854.18 217.528,854.023L183.745,840.84C183.018,841.845 181.836,842.5 180.5,842.5C178.636,842.5 177.07,841.225 176.626,839.5L150.537,839.5C149.986,839.5 149.537,839.052 149.537,838.5C149.537,837.948 149.986,837.5 150.537,837.5L176.626,837.5C177.07,835.775 178.636,834.5 180.5,834.5C181.836,834.5 183.018,835.155 183.745,836.16Z" style="fill:rgb(16,16,16);"/>
+        </g>
+        <g id="frame" transform="matrix(1,0,0,1,1,1)">
+          <path d="M-1,-1L-1,76L121,76L121,-1L-1,-1ZM119,1L119,74L1,74L1,1L119,1Z" style="fill:rgb(16,16,16);fill-rule:nonzero;"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
