@@ -46,13 +46,6 @@ a.button small {
   font-size: 11px;
 }
 
-.download {
-  background: transparent url(../images/download-button.png) 0 0 no-repeat;
-}
-.gotogh {
-  background: transparent url(../images/github-button.png) 0 0 no-repeat;
-}
-
 /* COMMON STYLES */
 
 hr {
