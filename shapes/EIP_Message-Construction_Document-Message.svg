@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 122 77" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+  <metadata xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc11="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc11:format>image/svg+xml</dc11:format>
+        <dc11:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/"/>
+        <cc:attributionName>codeclou</cc:attributionName>
+        <cc:attributionURL rdf:resource="https://codeclou.com"/>
+      </cc:Work>
+      <cc:License rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+        <cc:requires rdf:resource="http://creativecommons.org/ns#Notice"/>
+        <cc:requires rdf:resource="http://creativecommons.org/ns#Attribution"/>
+        <cc:requires rdf:resource="http://creativecommons.org/ns#ShareAlike"/>
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g transform="matrix(1,0,0,1,0,-300)">
+    <g id="Document-Message" serif:id="Document Message" transform="matrix(1,0,0,1,0,300)">
+      <rect x="0" y="0" width="122" height="77" style="fill:none;"/>
+      <g transform="matrix(0.854058,0,0,0.854058,13.8781,0.591165)">
+        <path d="M62.199,13.944C62.199,17.798 59.028,20.969 55.174,20.969C51.32,20.969 48.149,17.798 48.149,13.944C48.149,10.09 51.32,6.919 55.174,6.919C59.028,6.919 62.199,10.09 62.199,13.944Z" style="fill:rgb(204,204,204);fill-rule:nonzero;"/>
+      </g>
+      <g transform="matrix(1,0,0,1,0,-300)">
+        <path d="M60.5,318.981C57.164,318.722 54.5,315.897 54.5,312.5C54.5,308.934 57.434,306 61,306C64.566,306 67.5,308.934 67.5,312.5C67.5,315.897 64.836,318.722 61.5,318.981L61.5,331.5L68.5,331.5C68.776,331.5 69,331.724 69,332C69,332.276 68.776,332.5 68.5,332.5L61,332.5C60.724,332.5 60.5,332.276 60.5,332C60.5,331.979 60.501,331.959 60.504,331.939C60.501,331.919 60.5,331.899 60.5,331.878L60.5,318.981ZM55.5,312.5C55.5,315.517 57.983,318 61,318C64.017,318 66.5,315.517 66.5,312.5C66.5,309.483 64.017,307 61,307C57.983,307 55.5,309.483 55.5,312.5Z" style="fill:rgb(16,16,16);fill-rule:nonzero;"/>
+      </g>
+      <g transform="matrix(1,0,0,1,0.5,-6.5)">
+        <g transform="matrix(1.1291,0,0,1.1291,-4.94917,0.120184)">
+          <rect x="64.608" y="28.235" width="11.514" height="11.514" style="fill:rgb(250,233,255);"/>
+        </g>
+        <g transform="matrix(1.1291,0,0,1.1291,-4.94917,0.120184)">
+          <path d="M76.565,27.792L64.166,27.792L64.166,40.191L76.565,40.191L76.565,27.792ZM75.679,28.678L75.679,39.306L65.051,39.306L65.051,28.678L75.679,28.678Z" style="fill-rule:nonzero;"/>
+        </g>
+        <g transform="matrix(11.1429,0,0,11.1429,70.21,42.478)">
+          <path d="M0.226,-0.132L0.226,-0.582L0.338,-0.582C0.377,-0.582 0.409,-0.576 0.436,-0.566C0.462,-0.555 0.483,-0.539 0.499,-0.518C0.515,-0.497 0.527,-0.472 0.534,-0.444C0.541,-0.415 0.544,-0.382 0.544,-0.346C0.544,-0.307 0.539,-0.273 0.529,-0.246C0.519,-0.219 0.506,-0.197 0.489,-0.18C0.472,-0.163 0.453,-0.15 0.432,-0.143C0.411,-0.136 0.389,-0.132 0.366,-0.132L0.226,-0.132ZM0.069,-0.714L0.069,-0L0.377,-0C0.432,-0 0.479,-0.009 0.52,-0.028C0.56,-0.046 0.594,-0.071 0.621,-0.103C0.648,-0.135 0.668,-0.173 0.681,-0.217C0.694,-0.261 0.701,-0.309 0.701,-0.361C0.701,-0.42 0.693,-0.472 0.677,-0.516C0.66,-0.56 0.638,-0.597 0.609,-0.626C0.58,-0.655 0.545,-0.677 0.506,-0.692C0.466,-0.707 0.423,-0.714 0.377,-0.714L0.069,-0.714Z" style="fill:rgb(218,69,239);fill-rule:nonzero;"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

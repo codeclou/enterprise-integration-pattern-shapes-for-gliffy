@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 122 77" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+  <metadata xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc11="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc11:format>image/svg+xml</dc11:format>
+        <dc11:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/"/>
+        <cc:attributionName>codeclou</cc:attributionName>
+        <cc:attributionURL rdf:resource="https://codeclou.com"/>
+      </cc:Work>
+      <cc:License rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+        <cc:requires rdf:resource="http://creativecommons.org/ns#Notice"/>
+        <cc:requires rdf:resource="http://creativecommons.org/ns#Attribution"/>
+        <cc:requires rdf:resource="http://creativecommons.org/ns#ShareAlike"/>
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g transform="matrix(1,0,0,1,-140,-100)">
+    <g id="Aggregator" transform="matrix(1,0,0,1,140,100)">
+      <rect x="0" y="0" width="122" height="77" style="fill:rgb(156,242,156);"/>
+      <g>
+        <g>
+          <g transform="matrix(1,0,0,1,-0.386039,-0.331336)">
+            <rect x="96.634" y="33.106" width="11.514" height="11.514" style="fill:rgb(251,255,249);"/>
+          </g>
+          <g transform="matrix(1,0,0,1,-0.386039,-0.331336)">
+            <path d="M108.647,32.606L96.134,32.606L96.134,45.12L108.647,45.12L108.647,32.606ZM107.647,33.606L107.647,44.12L97.134,44.12L97.134,33.606L107.647,33.606Z" style="fill:rgb(16,16,16);fill-rule:nonzero;"/>
+          </g>
+        </g>
+        <g>
+          <g transform="matrix(1,0,0,1,2.06546,-0.415974)">
+            <rect x="12.134" y="49.133" width="11.514" height="11.514" style="fill:rgb(251,255,249);"/>
+          </g>
+          <g transform="matrix(1,0,0,1,2.06546,-0.415974)">
+            <path d="M24.147,48.633L11.634,48.633L11.634,61.147L24.147,61.147L24.147,48.633ZM23.147,49.633L23.147,60.147L12.634,60.147L12.634,49.633L23.147,49.633Z" style="fill:rgb(16,16,16);fill-rule:nonzero;"/>
+          </g>
+        </g>
+        <g>
+          <g transform="matrix(1,0,0,1,2.06546,-0.331336)">
+            <rect x="12.134" y="33.106" width="11.514" height="11.514" style="fill:rgb(251,255,249);"/>
+          </g>
+          <g transform="matrix(1,0,0,1,2.06546,-0.331336)">
+            <path d="M24.147,32.606L11.634,32.606L11.634,45.12L24.147,45.12L24.147,32.606ZM23.147,33.606L23.147,44.12L12.634,44.12L12.634,33.606L23.147,33.606Z" style="fill:rgb(16,16,16);fill-rule:nonzero;"/>
+          </g>
+        </g>
+        <g>
+          <g transform="matrix(1,0,0,1,2.06546,-0.739039)">
+            <rect x="12.134" y="17.514" width="11.514" height="11.514" style="fill:rgb(251,255,249);"/>
+          </g>
+          <g transform="matrix(1,0,0,1,2.06546,-0.739039)">
+            <path d="M24.147,17.014L11.634,17.014L11.634,29.527L24.147,29.527L24.147,17.014ZM23.147,18.014L23.147,28.527L12.634,28.527L12.634,18.014L23.147,18.014Z" style="fill:rgb(16,16,16);fill-rule:nonzero;"/>
+          </g>
+        </g>
+        <g transform="matrix(1,0,0,1,-140,-100)">
+          <path d="M203.386,137.5L203.386,132.875L217.46,138.5L203.386,144.125L203.386,139.5L184.54,139.5C183.988,139.5 183.54,139.052 183.54,138.5C183.54,137.948 183.988,137.5 184.54,137.5L203.386,137.5Z" style="fill:rgb(16,16,16);"/>
+        </g>
+        <g id="frame" transform="matrix(1,0,0,1,1,1)">
+          <path d="M-1,-1L-1,76L121,76L121,-1L-1,-1ZM119,1L119,74L1,74L1,1L119,1Z" style="fill:rgb(16,16,16);fill-rule:nonzero;"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

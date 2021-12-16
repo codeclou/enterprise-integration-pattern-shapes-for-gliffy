@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 122 77" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+  <metadata xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc11="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc11:format>image/svg+xml</dc11:format>
+        <dc11:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/"/>
+        <cc:attributionName>codeclou</cc:attributionName>
+        <cc:attributionURL rdf:resource="https://codeclou.com"/>
+      </cc:Work>
+      <cc:License rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+        <cc:requires rdf:resource="http://creativecommons.org/ns#Notice"/>
+        <cc:requires rdf:resource="http://creativecommons.org/ns#Attribution"/>
+        <cc:requires rdf:resource="http://creativecommons.org/ns#ShareAlike"/>
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g transform="matrix(1,0,0,1,-140,-700)">
+    <g id="Process-Manager" serif:id="Process Manager" transform="matrix(1,0,0,1,140,700)">
+      <rect x="0" y="0" width="122" height="77" style="fill:rgb(156,242,156);"/>
+      <g>
+        <g transform="matrix(1,0,0,1,-140,-700)">
+          <path d="M200,737.5L200,714.729C200,714.177 200.448,713.729 201,713.729C201.552,713.729 202,714.177 202,714.729L202,737.5L232,737.5L232.034,737.501L232.066,737.502L232.097,737.505L232.128,737.508L232.159,737.513L232.171,737.515C232.642,737.596 233,738.006 233,738.5L233,754.5C233,755.052 232.552,755.5 232,755.5C231.448,755.5 231,755.052 231,754.5L231,739.5L202,739.5L202,754.5C202,755.052 201.552,755.5 201,755.5C200.448,755.5 200,755.052 200,754.5L200,739.5L171,739.5L171,754.5C171,755.052 170.552,755.5 170,755.5C169.448,755.5 169,755.052 169,754.5L169,738.5L169.001,738.465L169.002,738.434L169.005,738.403L169.008,738.372L169.012,738.347L169.015,738.329C169.096,737.859 169.506,737.5 170,737.5L200,737.5Z" style="fill:rgb(16,16,16);"/>
+        </g>
+        <g>
+          <g transform="matrix(0.841505,0,0,0.82271,10.4059,11.6232)">
+            <rect x="85.079" y="52.117" width="23.767" height="17.017" style="fill:rgb(251,255,249);"/>
+          </g>
+          <g transform="matrix(0.841505,0,0,0.82271,10.4059,11.6232)">
+            <path d="M109.44,51.509L84.484,51.509L84.484,69.741L109.44,69.741L109.44,51.509ZM108.251,52.724L108.251,68.526L85.673,68.526L85.673,52.724L108.251,52.724Z" style="fill:rgb(16,16,16);fill-rule:nonzero;"/>
+          </g>
+        </g>
+        <g>
+          <g transform="matrix(0.841505,0,0,0.82271,9.66817,11.6232)">
+            <rect x="49.117" y="52.117" width="23.767" height="17.017" style="fill:rgb(251,255,249);"/>
+          </g>
+          <g transform="matrix(0.841505,0,0,0.82271,9.66817,11.6232)">
+            <path d="M73.478,51.509L48.522,51.509L48.522,69.741L73.478,69.741L73.478,51.509ZM72.289,52.724L72.289,68.526L49.711,68.526L49.711,52.724L72.289,52.724Z" style="fill:rgb(16,16,16);fill-rule:nonzero;"/>
+          </g>
+        </g>
+        <g>
+          <g transform="matrix(0.841505,0,0,0.82271,9.09942,11.6232)">
+            <rect x="12.954" y="52.117" width="23.767" height="17.017" style="fill:rgb(251,255,249);"/>
+          </g>
+          <g transform="matrix(0.841505,0,0,0.82271,9.09942,11.6232)">
+            <path d="M37.315,51.509L12.359,51.509L12.359,69.741L37.315,69.741L37.315,51.509ZM36.126,52.724L36.126,68.526L13.548,68.526L13.548,52.724L36.126,52.724Z" style="fill:rgb(16,16,16);fill-rule:nonzero;"/>
+          </g>
+        </g>
+        <g>
+          <g transform="matrix(0.707107,0.707107,-0.707107,0.707107,3.17857e-07,3.13687)">
+            <rect x="62.382" y="-23.885" width="11.514" height="11.514" style="fill:rgb(251,255,249);"/>
+          </g>
+          <g transform="matrix(0.707107,0.707107,-0.707107,0.707107,3.17857e-07,3.13687)">
+            <path d="M74.396,-24.385L61.882,-24.385L61.882,-11.871L74.396,-11.871L74.396,-24.385ZM73.396,-23.385L73.396,-12.871L62.882,-12.871L62.882,-23.385L73.396,-23.385Z" style="fill:rgb(16,16,16);fill-rule:nonzero;"/>
+          </g>
+        </g>
+        <g>
+          <g transform="matrix(1.02222,0,0,1.02222,3.37222,4.86667)">
+            <path d="M62,11.625C62,14.711 59.461,17.25 56.375,17.25C53.289,17.25 50.75,14.711 50.75,11.625C50.75,8.539 53.289,6 56.375,6C59.461,6 62,8.539 62,11.625Z" style="fill:rgb(251,255,249);fill-rule:nonzero;"/>
+          </g>
+          <g transform="matrix(1.02222,0,0,1.02222,3.37222,4.86667)">
+            <path d="M62.489,11.625C62.489,8.271 59.729,5.511 56.375,5.511C53.021,5.511 50.261,8.271 50.261,11.625C50.261,14.979 53.021,17.739 56.375,17.739C59.729,17.739 62.489,14.979 62.489,11.625ZM61.511,11.625C61.511,14.442 59.192,16.761 56.375,16.761C53.558,16.761 51.239,14.442 51.239,11.625C51.239,8.808 53.558,6.489 56.375,6.489C59.192,6.489 61.511,8.808 61.511,11.625Z" style="fill:rgb(16,16,16);fill-rule:nonzero;"/>
+          </g>
+        </g>
+        <g id="frame" transform="matrix(1,0,0,1,1,1)">
+          <path d="M-1,-1L-1,76L121,76L121,-1L-1,-1ZM119,1L119,74L1,74L1,1L119,1Z" style="fill:rgb(16,16,16);fill-rule:nonzero;"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
