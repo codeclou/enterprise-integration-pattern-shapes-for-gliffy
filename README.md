@@ -7,7 +7,8 @@ This project provides [SVG](http://de.wikipedia.org/wiki/Scalable_Vector_Graphic
 See the [project page](https://codeclou.github.io/enterprise-integration-pattern-shapes-for-gliffy/) for full documentation and **[usage guide](https://codeclou.github.io/enterprise-integration-pattern-shapes-for-gliffy/#usage-guide)**.
 
 Here is a picture of some shapes so that you get an idea:
-![](https://codeclou.github.io/enterprise-integration-pattern-shapes-for-gliffy/docimg/demo.png)
+
+<a href="https://codeclou.github.io/enterprise-integration-pattern-shapes-for-gliffy/"><img src="https://codeclou.github.io/enterprise-integration-pattern-shapes-for-gliffy/images/eip-message-router-example.png" width="100%"/></a>
 
 ---
 
@@ -15,4 +16,4 @@ Here is a picture of some shapes so that you get an idea:
 
 ### License
 
-[MIT](./LICENSE) © [Bernhard Grünewaldt](https://github.com/clouless)
+[CC-BY-SA-4.0 License](./LICENSE) © [codeclou](https://github.com/codeclou)
