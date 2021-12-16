@@ -103,7 +103,7 @@
 
 
       <!-- SECTION: What is it? -->
-      <section id="eip-intro" class="max-w-6xl mx-auto p-4 2xl:py-6">
+      <section id="eip-intro" class="max-w-6xl mx-auto p-4 2xl:py-20">
         <h2>EIP Shapes</h2>
         <h1>
           <a id="eip-intro" class="anchor" href="#eip-intro" aria-hidden="true"><span class="octicon octicon-link"></span></a>
@@ -130,11 +130,14 @@
 
       <!-- SECTION: Shape Overview -->
       <div class="bg-gray-50 ">
-        <section id="patterns-overview" class="max-w-6xl mx-auto p-4 2xl:py-6">
+        <section id="patterns-overview" class="max-w-6xl mx-auto p-4 2xl:py-20">
           <h3><a id="shape-overview" class="anchor" href="#shape-overview" aria-hidden="true"><span class="octicon octicon-link"></span></a>Patterns Overview</h3>
           <p>For reference see <a href="https://www.enterpriseintegrationpatterns.com/patterns/messaging/toc.html">eaipatterns.com</a> or the <a href="https://camel.apache.org/components/next/eips/enterprise-integration-patterns.html">Apache Camel Integration Framework EIP documentation</a>.</p>
 
-          <div class="grid sm:grid-cols-1 md:grid-cols-2 gap-4">
+          <div class="grid sm:grid-cols-1 md:grid-cols-2 gap-4"><!-- grid shape start-->
+
+
+
             <div class="eip-shape-box rounded-2xl text-gray-800" style="background-color:#fff">
               <h5 class="text-blue-500">Messaging Systems</h5>
               <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-3 2xl:grid-cols-4 gap-4">
@@ -202,8 +205,8 @@
                     Message-Translator
                   </div>
                 </div>
-              </div>
-            </div>
+              </div><!-- grid -->
+            </div><!-- eip-shape-box -->
 
             <div class="eip-shape-box rounded-2xl text-gray-800" style="background-color:#fff">
               <h5 class="text-red-500">Messaging Channels</h5>
@@ -272,11 +275,11 @@
                     Message Bus
                   </div>
                 </div>
-              </div>
-            </div>
+              </div><!-- grid -->
+            </div><!-- eip-shape-box -->
 
-              <div class="eip-shape-box rounded-2xl text-gray-800" style="background-color:#fff">
-             <h5 style="color:#84CC16";>Message Construction</h5>
+            <div class="eip-shape-box rounded-2xl text-gray-800 bg-white">
+             <h5 style="color:#84CC16">Message Construction</h5>
               <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-3 2xl:grid-cols-4 gap-4">
                 <div class="eip-shape">
                   <div class="eip-shape-img">
@@ -334,98 +337,91 @@
                     Return Address
                   </div>
                 </div>
-              </div>
-            </div>
+              </div><!-- grid -->
+            </div><!-- eip-shape-box -->
 
-              <div class="eip-shape-box rounded-2xl bg-gray-50 text-gray-800">
+            <div class="eip-shape-box rounded-2xl text-gray-800 bg-white">
               <h5 class="text-purple-500">Message Routing</h5>
               <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-3 2xl:grid-cols-4 gap-4">
-              <div class="eip-shape">
-                <div class="eip-shape-img">
-                  <img src="./shapes/EIP_Messaging-Endpoints_Competing-Consumers.svg" alt="">
+                <div class="eip-shape">
+                  <div class="eip-shape-img">
+                    <img src="./shapes/EIP_Messaging-Endpoints_Competing-Consumers.svg" alt="">
+                  </div>
+                  <div class="eip-shape-title">
+                    Competing Consumers
+                  </div>
                 </div>
-                <div class="eip-shape-title">
-                  Competing Consumers
+                <div class="eip-shape">
+                  <div class="eip-shape-img">
+                    <img src="./shapes/EIP_Messaging-Endpoints_Durable-Subscriber.svg" alt="">
+                  </div>
+                  <div class="eip-shape-title">
+                    Durable Subscriber
+                  </div>
                 </div>
-              </div>
-              <div class="eip-shape">
-                <div class="eip-shape-img">
-                  <img src="./shapes/EIP_Messaging-Endpoints_Durable-Subscriber.svg" alt="">
+                <div class="eip-shape">
+                  <div class="eip-shape-img">
+                    <img src="./shapes/EIP_Messaging-Endpoints_Event-Driven-Consumer.svg" alt="">
+                  </div>
+                  <div class="eip-shape-title">
+                    Event Driven Consumer
+                  </div>
                 </div>
-                <div class="eip-shape-title">
-                  Durable Subscriber
+                <div class="eip-shape">
+                  <div class="eip-shape-img">
+                    <img src="./shapes/EIP_Messaging-Endpoints_Message-Dispatcher.svg" alt="">
+                  </div>
+                  <div class="eip-shape-title">
+                    Message Dispatcher
+                  </div>
                 </div>
-              </div>
-              <div class="eip-shape">
-                <div class="eip-shape-img">
-                  <img src="./shapes/EIP_Messaging-Endpoints_Event-Driven-Consumer.svg" alt="">
+                <div class="eip-shape">
+                  <div class="eip-shape-img">
+                    <img src="./shapes/EIP_Messaging-Endpoints_Messaging-Gateway.svg" alt="">
+                  </div>
+                  <div class="eip-shape-title">
+                    Messaging Gateway
+                  </div>
                 </div>
-                <div class="eip-shape-title">
-                  Event Driven Consumer
+                <div class="eip-shape">
+                  <div class="eip-shape-img">
+                    <img src="./shapes/EIP_Messaging-Endpoints_Polling-Consumer.svg" alt="">
+                  </div>
+                  <div class="eip-shape-title">
+                    Polling Consumer
+                  </div>
                 </div>
-              </div>
-              <div class="eip-shape">
-                <div class="eip-shape-img">
-                  <img src="./shapes/EIP_Messaging-Endpoints_Message-Dispatcher.svg" alt="">
+                <div class="eip-shape">
+                  <div class="eip-shape-img">
+                    <img src="./shapes/EIP_Messaging-Endpoints_Selective-Consumer.svg" alt="">
+                  </div>
+                  <div class="eip-shape-title">
+                    Selective Consumer
+                  </div>
                 </div>
-                <div class="eip-shape-title">
-                  Message Dispatcher
+                <div class="eip-shape">
+                  <div class="eip-shape-img">
+                    <img src="./shapes/EIP_Messaging-Endpoints_Service-Activator.svg" alt="">
+                  </div>
+                  <div class="eip-shape-title">
+                    Service Activator
+                  </div>
                 </div>
-              </div>
-              <div class="eip-shape">
-                <div class="eip-shape-img">
-                  <img src="./shapes/EIP_Messaging-Endpoints_Messaging-Gateway.svg" alt="">
+                <div class="eip-shape">
+                  <div class="eip-shape-img">
+                    <img src="./shapes/EIP_Messaging-Endpoints_Transactional-Client.svg" alt="">
+                  </div>
+                  <div class="eip-shape-title">
+                    Transactional Client
+                  </div>
                 </div>
-                <div class="eip-shape-title">
-                  Messaging Gateway
-                </div>
-              </div>
-              <div class="eip-shape">
-                <div class="eip-shape-img">
-                  <img src="./shapes/EIP_Messaging-Endpoints_Polling-Consumer.svg" alt="">
-                </div>
-                <div class="eip-shape-title">
-                  Polling Consumer
-                </div>
-              </div>
-              <div class="eip-shape">
-                <div class="eip-shape-img">
-                  <img src="./shapes/EIP_Messaging-Endpoints_Selective-Consumer.svg" alt="">
-                </div>
-                <div class="eip-shape-title">
-                  Selective Consumer
-                </div>
-              </div>
-              <div class="eip-shape">
-                <div class="eip-shape-img">
-                  <img src="./shapes/EIP_Messaging-Endpoints_Service-Activator.svg" alt="">
-                </div>
-                <div class="eip-shape-title">
-                  Service Activator
-                </div>
-              </div>
-              <div class="eip-shape">
-                <div class="eip-shape-img">
-                  <img src="./shapes/EIP_Messaging-Endpoints_Transactional-Client.svg" alt="">
-                </div>
-                <div class="eip-shape-title">
-                  Transactional Client
-                </div>
-              </div>
-            </div>
-            </div>
-            </div>
-            </div>
+              </div><!-- grid -->
+            </div><!-- eip-shape-box -->
 
-
-
-
-
-
-            <div class="eip-shape-box rounded-2xl bg-gray-50 text-gray-800">
+            <div class="eip-shape-box rounded-2xl text-gray-800 bg-white">
               <h5 class="text-green-500">Messaging Endpoints</h5>
-              <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 xl:grid-cols-6 2xl:grid-cols-8 gap-4">
-              <div class="eip-shape">
+              <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-3 2xl:grid-cols-4 gap-4">
+                <div class="eip-shape">
                   <div class="eip-shape-img">
                     <img src="./shapes/EIP_Message-Routing_Aggregator.svg" alt="">
                   </div>
@@ -513,127 +509,124 @@
                     Splitter
                   </div>
                 </div>
-                </div>
-              </div>
+              </div><!-- grid -->
+            </div><!-- eip-shape-box -->
 
+            <div class="eip-shape-box rounded-2xl text-gray-800 bg-white">
+              <h5 class="text-yellow-500">Message Transformation</h5>
+              <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-3 2xl:grid-cols-4 gap-4">
+                <div class="eip-shape">
+                  <div class="eip-shape-img">
+                    <img src="./shapes/EIP_Message-Transformation_Claim-Check.svg" alt="">
+                  </div>
+                  <div class="eip-shape-title">
+                    Claim Check
+                  </div>
+                </div>
+                <div class="eip-shape">
+                  <div class="eip-shape-img">
+                    <img src="./shapes/EIP_Message-Transformation_Content-Enricher.svg" alt="">
+                  </div>
+                  <div class="eip-shape-title">
+                    Content Enricher
+                  </div>
+                </div>
+                <div class="eip-shape">
+                  <div class="eip-shape-img">
+                    <img src="./shapes/EIP_Message-Transformation_Content-Filter.svg" alt="">
+                  </div>
+                  <div class="eip-shape-title">
+                    Content Filter
+                  </div>
+                </div>
+                <div class="eip-shape">
+                  <div class="eip-shape-img">
+                    <img src="./shapes/EIP_Message-Transformation_Envelope-Wrapper.svg" alt="">
+                  </div>
+                  <div class="eip-shape-title">
+                    Envelope Wrapper
+                  </div>
+                </div>
+                <div class="eip-shape">
+                  <div class="eip-shape-img">
+                    <img src="./shapes/EIP_Message-Transformation_Normalizer.svg" alt="">
+                  </div>
+                  <div class="eip-shape-title">
+                    Normalizer
+                  </div>
+                </div>
+              </div><!-- grid -->
+            </div><!-- eip-shape-box -->
 
-
-
-          <div class="grid sm:grid-cols-1 md:grid-cols-2 gap-4">
-            <div class="eip-shape-box rounded-2xl bg-gray-50 text-gray-800">
-            <h5 class="text-yellow-500">Message Transformation</h5>
-            <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-3 2xl:grid-cols-4 gap-4">
-              <div class="eip-shape">
-                <div class="eip-shape-img">
-                  <img src="./shapes/EIP_Message-Transformation_Claim-Check.svg" alt="">
-                </div>
-                <div class="eip-shape-title">
-                  Claim Check
-                </div>
-              </div>
-              <div class="eip-shape">
-                <div class="eip-shape-img">
-                  <img src="./shapes/EIP_Message-Transformation_Content-Enricher.svg" alt="">
-                </div>
-                <div class="eip-shape-title">
-                  Content Enricher
-                </div>
-              </div>
-              <div class="eip-shape">
-                <div class="eip-shape-img">
-                  <img src="./shapes/EIP_Message-Transformation_Content-Filter.svg" alt="">
-                </div>
-                <div class="eip-shape-title">
-                  Content Filter
-                </div>
-              </div>
-              <div class="eip-shape">
-                <div class="eip-shape-img">
-                  <img src="./shapes/EIP_Message-Transformation_Envelope-Wrapper.svg" alt="">
-                </div>
-                <div class="eip-shape-title">
-                  Envelope Wrapper
-                </div>
-              </div>
-              <div class="eip-shape">
-                <div class="eip-shape-img">
-                  <img src="./shapes/EIP_Message-Transformation_Normalizer.svg" alt="">
-                </div>
-                <div class="eip-shape-title">
-                  Normalizer
-                </div>
-              </div>
-            </div>
-          </div>
-
-            <div class="eip-shape-box rounded-2xl bg-gray-50 text-gray-800">
+            <div class="eip-shape-box rounded-2xl text-gray-800 bg-white">
               <h5 class="text-indigo-500">System Management</h5>
               <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-3 2xl:grid-cols-4 gap-4">
-              <div class="eip-shape">
-                <div class="eip-shape-img">
-                  <img src="./shapes/EIP_System-Management_Channel-Purger.svg" alt="">
+                <div class="eip-shape">
+                  <div class="eip-shape-img">
+                    <img src="./shapes/EIP_System-Management_Channel-Purger.svg" alt="">
+                  </div>
+                  <div class="eip-shape-title">
+                    Channel Purger
+                  </div>
                 </div>
-                <div class="eip-shape-title">
-                  Channel Purger
+                <div class="eip-shape">
+                  <div class="eip-shape-img">
+                    <img src="./shapes/EIP_System-Management_Control-Bus.svg" alt="">
+                  </div>
+                  <div class="eip-shape-title">
+                    Control Bus
+                  </div>
                 </div>
-              </div>
-              <div class="eip-shape">
-                <div class="eip-shape-img">
-                  <img src="./shapes/EIP_System-Management_Control-Bus.svg" alt="">
+                <div class="eip-shape">
+                  <div class="eip-shape-img">
+                    <img src="./shapes/EIP_System-Management_Detour.svg" alt="">
+                  </div>
+                  <div class="eip-shape-title">
+                    Detour
+                  </div>
                 </div>
-                <div class="eip-shape-title">
-                  Control Bus
+                <div class="eip-shape">
+                  <div class="eip-shape-img">
+                    <img src="./shapes/EIP_System-Management_Message-Store.svg" alt="">
+                  </div>
+                  <div class="eip-shape-title">
+                    Message Store
+                  </div>
                 </div>
-              </div>
-              <div class="eip-shape">
-                <div class="eip-shape-img">
-                  <img src="./shapes/EIP_System-Management_Detour.svg" alt="">
+                <div class="eip-shape">
+                  <div class="eip-shape-img">
+                    <img src="./shapes/EIP_System-Management_Test-Message.svg" alt="">
+                  </div>
+                  <div class="eip-shape-title">
+                    Test Message
+                  </div>
                 </div>
-                <div class="eip-shape-title">
-                  Detour
+                <div class="eip-shape">
+                  <div class="eip-shape-img">
+                    <img src="./shapes/EIP_System-Management_Wire-Tap.svg" alt="">
+                  </div>
+                  <div class="eip-shape-title">
+                    Wire Tap
+                  </div>
                 </div>
-              </div>
-              <div class="eip-shape">
-                <div class="eip-shape-img">
-                  <img src="./shapes/EIP_System-Management_Message-Store.svg" alt="">
+                <div class="eip-shape">
+                  <div class="eip-shape-img">
+                    <img src="./shapes/EIP_System-Management_Smart-Proxy.svg" alt="">
+                  </div>
+                  <div class="eip-shape-title">
+                    Smart Proxy
+                  </div>
                 </div>
-                <div class="eip-shape-title">
-                  Message Store
-                </div>
-              </div>
-              <div class="eip-shape">
-                <div class="eip-shape-img">
-                  <img src="./shapes/EIP_System-Management_Test-Message.svg" alt="">
-                </div>
-                <div class="eip-shape-title">
-                  Test Message
-                </div>
-              </div>
-              <div class="eip-shape">
-                <div class="eip-shape-img">
-                  <img src="./shapes/EIP_System-Management_Wire-Tap.svg" alt="">
-                </div>
-                <div class="eip-shape-title">
-                  Wire Tap
-                </div>
-              </div>
-              <div class="eip-shape">
-                <div class="eip-shape-img">
-                  <img src="./shapes/EIP_System-Management_Smart-Proxy.svg" alt="">
-                </div>
-                <div class="eip-shape-title">
-                  Smart Proxy
-                </div>
-              </div>
-            </div>
-            </div>
-          </div>
-          <!-- END -->
+              </div><!-- grid -->
+            </div><!-- eip-shape-box -->
+
+
+          </div><!-- grid shape end--> 
         </section>
       </div>
 
 
-     <section id="color-palette" class="max-w-6xl mx-auto p-4 2xl:py-6">
+     <section id="color-palette" class="max-w-6xl mx-auto p-4 2xl:py-20">
 
       <h3 class="">Color Palette</h3>
       <div class="color-palette grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6 2xl:grid-cols-7 gap-4">
@@ -856,7 +849,7 @@
 
 
   <div class="bg-gray-50 ">
-    <section id="usage-guide" class="  max-w-6xl mx-auto p-4 2xl:py-6">
+    <section id="usage-guide" class="  max-w-6xl mx-auto p-4 2xl:py-20">
 
       <h3>Usage Guide</h3>
       <h4>Installing in Gliffy</h4>
@@ -890,7 +883,7 @@
 
 
 
-  <section id="license" class="max-w-6xl mx-auto p-4 2xl:py-6">
+  <section id="license" class="max-w-6xl mx-auto p-4 2xl:py-20">
 
     <h3>License and Author </h3>
       <p>
