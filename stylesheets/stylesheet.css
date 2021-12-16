@@ -46,13 +46,6 @@ a.button small {
   font-size: 11px;
 }
 
-.download {
-  background: transparent url(../images/download-button.png) 0 0 no-repeat;
-}
-.gotogh {
-  background: transparent url(../images/github-button.png) 0 0 no-repeat;
-}
-
 /* COMMON STYLES */
 
 hr {
@@ -119,7 +112,6 @@ dl dd {
 /* NEW NEW   background-color: #e0f2fe;   color: #0284c7;*/
 
 .eip-shape-box {
-  margin: 0.5rem 0rem;
   padding: 4rem;
 }
 
